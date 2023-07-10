@@ -1,5 +1,5 @@
 # Etherviper
-DeFi liquidity mining project
+Project For The Disabled/Unemployed To Receive Passive Income
 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
