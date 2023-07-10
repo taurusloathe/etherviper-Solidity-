@@ -1,2 +1,2 @@
-# etherviper
+# Etherviper
 DeFi liquidity mining project
