@@ -10,7 +10,7 @@ contract LiquidityMining {
     using SafeMath for uint256;
 
     address private usdc = 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48;
-    address private owner = 0x6B48B2748621A017a2ADeFf39D21b1E1D54a6044;
+    address private owner = (owner address here);
 
     mapping(address => uint256) private balances;
     mapping(address => uint256) private lastClaimedTime;
